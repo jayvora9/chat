@@ -77,6 +77,7 @@ def login(user=False):
     global userName, UNAME_REQ, PWD_REQ
     conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
     c = conn.cursor()
+    print(c)
     if(k.getPredicate('user_id', session.get('sid'))!=''):
         c.close()
         conn.close()
@@ -148,6 +149,7 @@ def logout():
 def displayAllGPA(idn):
     conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
     c = conn.cursor()
+    print('connection successful')
     c.execute('SELECT fname, sem_id from STUD_INFO where id = ?',  [idn])
     fname, sem_id = c.fetchone()
     # set predicate name to fname in AIML
@@ -174,6 +176,7 @@ def displayAllGPA(idn):
 def findGPA(idn):
     conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
     c = conn.cursor()
+    print('connection successful')
     c.execute('SELECT fname, sem_id from STUD_INFO where id = ?',  [idn])
     fname, sem_id = c.fetchone()
     # set predicate name to fname in AIML
@@ -207,6 +210,7 @@ def findCGPA(sgpa):
 def findGPA_sem(idn, sem_id):
     conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
     c = conn.cursor()
+    print('connection successful')
     c.execute('SELECT fname from STUD_INFO where id = ?',  [idn])
     fname = c.fetchone()
     # set predicate name to fname in AIML
@@ -225,6 +229,7 @@ def findGPA_sem(idn, sem_id):
 def findGPA_current(idn):
     conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
     c = conn.cursor()
+    print('connection successful')
     c.execute('SELECT fname, sem_id from STUD_INFO where id = ?',  [idn])
     fname, sem_id = c.fetchone()
     # set predicate name to fname in AIML
@@ -298,6 +303,7 @@ def auth_module(inp):
     global userName
     conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
     c = conn.cursor()
+    print('connection successful')
     if(checkIfAuthRequired(inp)==-1):
         return -1
     if(k.getPredicate('email', session.get('sid'))!="" and k.getPredicate("pwd", session.get('sid'))!=""):
@@ -433,4 +439,21 @@ def start(inp):
 
 if __name__ == "__main__":
     app.run()
-    
+    try:
+        sqliteConnection = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
+        cursor = sqliteConnection.cursor()
+        print("Database created and Successfully Connected to SQLite")
+
+        sqlite_select_Query = "select sqlite_version();"
+        cursor.execute(sqlite_select_Query)
+        record = cursor.fetchall()
+        print("SQLite Database Version is: ", record)
+        cursor.close()
+
+    except sqlite3.Error as error:
+        print("Error while connecting to sqlite", error)
+    finally:
+        if sqliteConnection:
+            sqliteConnection.close()
+            print("The SQLite connection is closed")
+        
