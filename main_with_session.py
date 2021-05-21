@@ -75,7 +75,7 @@ INVALID_PWD_RES = ['Invalid password! Would you like to retry or have changed yo
 
 def login(user=False):
     global userName, UNAME_REQ, PWD_REQ
-    conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
+    conn = sqlite3.connect('seminar2_progress/shrya/db/sqlite/db/pythonsqlite.db')
     c = conn.cursor()
     print(c)
     if(k.getPredicate('user_id', session.get('sid'))!=''):
@@ -147,7 +147,7 @@ def logout():
     return("I have cleared your login information from my memory! Don't worry, you can trust me anytime!")
     
 def displayAllGPA(idn):
-    conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
+    conn = sqlite3.connect('seminar2_progress/shrya/db/sqlite/db/pythonsqlite.db')
     c = conn.cursor()
     print('connection successful')
     c.execute('SELECT fname, sem_id from STUD_INFO where id = ?',  [idn])
@@ -174,7 +174,7 @@ def displayAllGPA(idn):
     
     
 def findGPA(idn):
-    conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
+    conn = sqlite3.connect('seminar2_progress/shrya/db/sqlite/db/pythonsqlite.db')
     c = conn.cursor()
     print('connection successful')
     c.execute('SELECT fname, sem_id from STUD_INFO where id = ?',  [idn])
@@ -208,7 +208,7 @@ def findCGPA(sgpa):
     return('Your CGPA is '+str(cgpa))
 
 def findGPA_sem(idn, sem_id):
-    conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
+    conn = sqlite3.connect('seminar2_progress/shrya/db/sqlite/db/pythonsqlite.db')
     c = conn.cursor()
     print('connection successful')
     c.execute('SELECT fname from STUD_INFO where id = ?',  [idn])
@@ -227,7 +227,7 @@ def findGPA_sem(idn, sem_id):
     return('Your SGPA of '+sem+ " is "+ str(result))
     
 def findGPA_current(idn):
-    conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
+    conn = sqlite3.connect('seminar2_progress/shrya/db/sqlite/db/pythonsqlite.db')
     c = conn.cursor()
     print('connection successful')
     c.execute('SELECT fname, sem_id from STUD_INFO where id = ?',  [idn])
@@ -301,7 +301,7 @@ def providePersonalInfo(inp, idn):
 
 def auth_module(inp):
     global userName
-    conn = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
+    conn = sqlite3.connect('seminar2_progress/shrya/db/sqlite/db/pythonsqlite.db')
     c = conn.cursor()
     print('connection successful')
     if(checkIfAuthRequired(inp)==-1):
@@ -440,7 +440,7 @@ def start(inp):
 if __name__ == "__main__":
     app.run()
     try:
-        sqliteConnection = sqlite3.connect('seminar2_progress\\shrya\\db\\sqlite\\db\\pythonsqlite.db')
+        sqliteConnection = sqlite3.connect('seminar2_progress/shrya/db/sqlite/db/pythonsqlite.db')
         cursor = sqliteConnection.cursor()
         print("Database created and Successfully Connected to SQLite")
 
