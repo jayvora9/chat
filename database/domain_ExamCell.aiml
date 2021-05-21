@@ -5,12 +5,15 @@
 <meta name="language" content="en"/>
 	     
 	<category>
-      <pattern>HEAD COE</pattern>
+      <pattern>HEAD OF COMPUTER ENGINEERING DEPARTMENT </pattern>
       <template>
 		<random>
-			<li>Dr. Abhijeet A. Agashe is the head of COE. He has been conferred with two Ph. D. Degrees, one in the field of Mechanical Engineering and the other in Business Management from Rashtrasant Tukadoji Maharaj, Nagpur University, Nagpur. He is an Advanced Google Analytics certified by Google Analytics Academy.</li>
-			<li>Dr. Abhijeet A. Agashe leads the COE department. He has been conferred with two Ph. D. Degrees, one in the field of Mechanical Engineering and the other in Business Management from Rashtrasant Tukadoji Maharaj, Nagpur University, Nagpur. He is an Advanced Google Analytics certified by Google Analytics Academy.</li>
-			<li>COE is headed by Dr. Abhijeet A. Agashe. He has been conferred with two Ph. D. Degrees, one in the field of Mechanical Engineering and the other in Business Management from Rashtrasant Tukadoji Maharaj, Nagpur University, Nagpur. He is an Advanced Google Analytics certified by Google Analytics Academy.</li>
+			<li>Prof. Uday K. Bhave
+I/c Head of Department
+M.E.(Computer) & B.E.(Electronics)
+Teaching Experience: 17 Years
+Industrial Experience: 6.5 Years
+</li>
 		</random>
 	  </template>
     </category>
@@ -18,9 +21,9 @@
       <pattern>COE</pattern>
 	  <template> 
 		<random>
-			<li>Please goto this link to get details of COE: http://www.rknec.edu/coe/coe.aspx</li>
-            <li>Have a look over here to get details of COE: http://www.rknec.edu/coe/coe.aspx</li>
-            <li>Click on this link to get details of COE: http://www.rknec.edu/coe/coe.aspx</li>
+			<li>Please goto this link to get details of COE: http://www.shahandanchor.com/coe/coe.aspx</li>
+            <li>Have a look over here to get details of COE: http://www.shahandanchor.com/coe/coe.aspx</li>
+            <li>Click on this link to get details of COE: http://www.shahandanchor.com/coe/coe.aspx</li>
         </random>			
 	  </template>
 	</category>
@@ -28,9 +31,9 @@
 		<pattern>AUTONOMY TOPPER LIST</pattern>
 		<template>
 			<random>
-				<li>Please goto this link to get autonomy topper's list : http://www.rknec.edu/coe/Misc/COE%20Topper%20list%20upto%20RS2016.pdf'</li> 
-                <li>Have a look over here to get autonomy topper's list : http://www.rknec.edu/coe/Misc/COE%20Topper%20list%20upto%20RS2016.pdf'</li>
-				<li>Click on this link to get autonomy topper's list : http://www.rknec.edu/coe/Misc/COE%20Topper%20list%20upto%20RS2016.pdf'</li>
+				<li>Please goto this link to get autonomy topper's list : http://www.shahandanchor.com/coe/Misc/COE%20Topper%20list%20upto%20RS2016.pdf'</li> 
+                <li>Have a look over here to get autonomy topper's list : http://www.shahandanchor.com/coe/Misc/COE%20Topper%20list%20upto%20RS2016.pdf'</li>
+				<li>Click on this link to get autonomy topper's list : http://www.shahandanchor.com/coe/Misc/COE%20Topper%20list%20upto%20RS2016.pdf'</li>
 	        </random>
 	  </template>
 	</category>
@@ -38,9 +41,9 @@
 		<pattern>DOCUMENTS ISSUED COE STUDENT PASSES AUTONOMY EXAMS</pattern>
 			<template>
 				<random>
-					<li>Please goto this link to get list of documents : http://rknec.edu/COE/Notices/201718/CertificateDocuments%20from%20CoE%20Office.pdf</li>
-					<li>Have a look over here to get list of documents : http://rknec.edu/COE/Notices/201718/CertificateDocuments%20from%20CoE%20Office.pdf</li>
-					<li>Click on this link to get list of documents : http://rknec.edu/COE/Notices/201718/CertificateDocuments%20from%20CoE%20Office.pdf</li>
+					<li>Please goto this link to get list of documents : http://shahandanchor.com/COE/Notices/201718/CertificateDocuments%20from%20CoE%20Office.pdf</li>
+					<li>Have a look over here to get list of documents : http://shahandanchor.com/COE/Notices/201718/CertificateDocuments%20from%20CoE%20Office.pdf</li>
+					<li>Click on this link to get list of documents : http://shahandanchor.com/COE/Notices/201718/CertificateDocuments%20from%20CoE%20Office.pdf</li>
                 </random>       
 	   </template>
 	</category>
@@ -48,9 +51,9 @@
 		<pattern>FORMAT WRITING APPLICATION COE</pattern>
 		<template>
 			<random>
-				<li>Please goto this link to get the format for writing application to COE : http://rknec.edu/COE/Notices/2017-18/Application%20Form.pdf</li>
-				<li>Have a look over here to get the format for writing application to COE : http://rknec.edu/COE/Notices/2017-18/Application%20Form.pdf</li>
-				<li>Click on this link to get the format for writing application to COE : http://rknec.edu/COE/Notices/2017-18/Application%20Form.pdf</li>
+				<li>Please goto this link to get the format for writing application to COE : http://shahandanchor.com/COE/Notices/2017-18/Application%20Form.pdf</li>
+				<li>Have a look over here to get the format for writing application to COE : http://shahandanchor.com/COE/Notices/2017-18/Application%20Form.pdf</li>
+				<li>Click on this link to get the format for writing application to COE : http://shahandanchor.com/COE/Notices/2017-18/Application%20Form.pdf</li>
 		    </random>
 	  </template>
 	</category>
@@ -58,9 +61,9 @@
 		<pattern>EXAMINATION COMMITTEE</pattern>
 		<template>
 			<random>
-				<li>Please goto this link to get the details about C.O.E : http://www.rknec.edu/Imp%20Links/Exam_Committee.aspx</li>
-				<li>Have a look over here to get the details about C.O.E : http://www.rknec.edu/Imp%20Links/Exam_Committee.aspx</li>
-				<li>Click on this link to get the details about C.O.E : http://www.rknec.edu/Imp%20Links/Exam_Committee.aspx</li>
+				<li>Please goto this link to get the details about C.O.E : http://www.shahandanchor.com/Imp%20Links/Exam_Committee.aspx</li>
+				<li>Have a look over here to get the details about C.O.E : http://www.shahandanchor.com/Imp%20Links/Exam_Committee.aspx</li>
+				<li>Click on this link to get the details about C.O.E : http://www.shahandanchor.com/Imp%20Links/Exam_Committee.aspx</li>
 		    </random>   
 	  </template>
 	</category>
@@ -68,12 +71,20 @@
 		<pattern>LINK RESULTS TIMETABLES</pattern>
 		<template>
 			<random>
-				<li>Please goto this link : http://www.rknec.edu/coe/coe.aspx</li>
-				<li>Have a look over here : http://www.rknec.edu/coe/coe.aspx</li>
-				<li>Click on this link : http://www.rknec.edu/coe/coe.aspx</li>
+				<li>Please goto this link : http://www.shahandanchor.com/coe/coe.aspx</li>
+				<li>Have a look over here : http://www.shahandanchor.com/coe/coe.aspx</li>
+				<li>Click on this link : http://www.shahandanchor.com/coe/coe.aspx</li>
 		    </random>   
 	  </template>
 	</category>
-</aiml>
 	
-		
+<category>
+      <pattern>EXAM CELL STAFF</pattern>
+      <template>
+		<random>
+			<li> Click on the below link to get details about Exam Cell Staff. Link: https://www.shahandanchor.com/home/exam-cell-staff/ </li>
+		</random>
+	  </template>
+    </category>
+ 	</aiml>
+	

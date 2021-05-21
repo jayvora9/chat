@@ -6,22 +6,20 @@
 
 
 	<category>
-      <pattern>UNDERTAKING DEAN ADMISSIONS</pattern>
+      <pattern>ADMISSION POTRAL</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the undertaking by Dean Admissions : http://www.rknec.edu/Admissions/admissionlanding.aspx</li>
-			<li>Please goto this link to view the undertaking by Dean Admissions : http://www.rknec.edu/Admissions/admissionlanding.aspx</li>
-			<li>Have a look over here to view the undertaking by Dean Admissions : http://www.rknec.edu/Admissions/admissionlanding.aspx</li>
-		</random>
+			<li>  CLick on this link:  https://www.shahandanchor.com/metsmartcampus/default.aspx </li>
+	</random>
 	  </template>
     </category>
 	<category>
       <pattern>DEAN ADMISSIONS</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the details of Dean Admissions : http://www.rknec.edu/About/Administration/DeanAdmissions.aspx</li>
-			<li>Please goto this link to view the details of Dean Admissions : http://www.rknec.edu/About/Administration/DeanAdmissions.aspx</li>
-			<li>Have a look over here to view the details of Dean Admissions : http://www.rknec.edu/About/Administration/DeanAdmissions.aspx</li>
+			<li>Click on this link to view the details of Dean Admissions : http://www.shahandanchor.com/About/Administration/DeanAdmissions.aspx</li>
+			<li>Please goto this link to view the details of Dean Admissions : http://www.shahandanchor.com/About/Administration/DeanAdmissions.aspx</li>
+			<li>Have a look over here to view the details of Dean Admissions : http://www.shahandanchor.com/About/Administration/DeanAdmissions.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -36,12 +34,12 @@
 	  </template>
     </category>
 	<category>
-      <pattern>FIRST YEAR BE ADMISSIONS</pattern>
+      <pattern>FIRST YEAR  ADMISSIONS</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the guidelines of First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx</li>
-			<li>Please goto this link to view the guidelines of First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx</li>
-			<li>Have a look over here to view the guidelines of First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx</li>
+			<li>Click on this link to view the guidelines of First Year Admissions : https://www.shahandanchor.com/home/registration-for-engineering-admission-2020-updates/ </li>
+			<li>Please goto this link to view the guidelines of First Year Admissions :https://www.shahandanchor.com/home/registration-for-engineering-admission-2020-updates/ </li>
+			<li>Have a look over here to view the guidelines of First Year Admissions : https://www.shahandanchor.com/home/registration-for-engineering-admission-2020-updates/ </li>
 		</random>
 	  </template>
     </category>
@@ -50,9 +48,9 @@
       <pattern>ELIGIBILITY ADMISSION FIRST YEAR BE</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the eligibility criteria to First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Please goto this link to view the eligibility criteria to First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Have a look over here to view the eligibility criteria to First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
+			<li>Click on this link to view the eligibility criteria to First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
+			<li>Please goto this link to view the eligibility criteria to First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
+			<li>Have a look over here to view the eligibility criteria to First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -60,9 +58,9 @@
       <pattern>SEAT DISTRIBUTION ADMISSION FIRST YEAR BE</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the seat distribution for  First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Please goto this link to view the seat distribution for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Have a look over here to view the seat distribution for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
+			<li>Click on this link to view the seat distribution for  First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
+			<li>Please goto this link to view the seat distribution for First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
+			<li>Have a look over here to view the seat distribution for First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -70,9 +68,9 @@
       <pattern>DOCUMENTS ADMISSION FIRST YEAR BE</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the documents required for  First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Please goto this link to view the documents required for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Have a look over here to view the documents required for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
+			<li>Click on this link to view the documents required for  First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
+			<li>Please goto this link to view the documents required for First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
+			<li>Have a look over here to view the documents required for First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -80,9 +78,9 @@
       <pattern>FEE STRUCTURE FIRST YEAR BE</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the fee structure for  First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Please goto this link to view the fee structure required for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Have a look over here to view the fee structure for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
+			<li>Click on this link to view the fee structure for  First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
+			<li>Please goto this link to view the fee structure required for First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
+			<li>Have a look over here to view the fee structure for First Year BE Admissions : http://www.shahandanchor.com/Admissions/First-Year.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -90,9 +88,9 @@
       <pattern>ELIGIBILITY ADMISSION DIRECT SECOND YEAR BE</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the eligibility criteria to Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Please goto this link to view the eligibility criteria to Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Have a look over here to view the eligibility criteria to Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Click on this link to view the eligibility criteria to Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Please goto this link to view the eligibility criteria to Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Have a look over here to view the eligibility criteria to Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -100,9 +98,9 @@
       <pattern>SEAT DISTRIBUTION ADMISSION DIRECT SECOND YEAR BE</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the seat distribution for  Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Please goto this link to view the seat distribution for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Have a look over here to view the seat distribution for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Click on this link to view the seat distribution for  Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Please goto this link to view the seat distribution for Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Have a look over here to view the seat distribution for Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -110,9 +108,9 @@
       <pattern>DOCUMENTS ADMISSION DIRECT SECOND YEAR BE</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the documents required for  Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Please goto this link to view the documents required for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Have a look over here to view the documents required for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Click on this link to view the documents required for  Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Please goto this link to view the documents required for Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Have a look over here to view the documents required for Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -120,9 +118,9 @@
       <pattern>FEE STRUCTURE DIRECT SECOND YEAR BE</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the fee structure for  Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Please goto this link to view the fee structure required for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Have a look over here to view the fee structure for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Click on this link to view the fee structure for  Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Please goto this link to view the fee structure required for Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
+			<li>Have a look over here to view the fee structure for Direct Second Year BE Admissions : http://www.shahandanchor.com/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -130,9 +128,9 @@
       <pattern>ELIGIBILITY ADMISSION MBA</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the eligibility criteria to MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Please goto this link to view the eligibility criteria to MBA Admissions :http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Have a look over here to view the eligibility criteria to MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
+			<li>Click on this link to view the eligibility criteria to MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
+			<li>Please goto this link to view the eligibility criteria to MBA Admissions :http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
+			<li>Have a look over here to view the eligibility criteria to MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -140,9 +138,9 @@
       <pattern>SEAT DISTRIBUTION ADMISSION MBA</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the seat distribution for  MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Please goto this link to view the seat distribution for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Have a look over here to view the seat distribution for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
+			<li>Click on this link to view the seat distribution for  MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
+			<li>Please goto this link to view the seat distribution for MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
+			<li>Have a look over here to view the seat distribution for MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -150,9 +148,9 @@
       <pattern>DOCUMENTS ADMISSION MBA</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the documents required for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Please goto this link to view the documents required for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Have a look over here to view the documents required for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
+			<li>Click on this link to view the documents required for MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
+			<li>Please goto this link to view the documents required for MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
+			<li>Have a look over here to view the documents required for MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -160,9 +158,9 @@
       <pattern>FEE STRUCTURE MBA</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the fee structure for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Please goto this link to view the fee structure required for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Have a look over here to view the fee structure for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
+			<li>Click on this link to view the fee structure for MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
+			<li>Please goto this link to view the fee structure required for MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
+			<li>Have a look over here to view the fee structure for MBA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBA.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -170,9 +168,9 @@
       <pattern>ELIGIBILITY CRITERIA ADMISSION MBA INTEGRATED</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the eligibility criteria to MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Please goto this link to view the eligibility criteria to MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Have a look over here to view the eligibility criteria to MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Click on this link to view the eligibility criteria to MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Please goto this link to view the eligibility criteria to MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Have a look over here to view the eligibility criteria to MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -180,9 +178,9 @@
       <pattern>SEAT DISTRIBUTION ADMISSION MBA INTEGRATED</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the seat distribution for  MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Please goto this link to view the seat distribution for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Have a look over here to view the seat distribution for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Click on this link to view the seat distribution for  MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Please goto this link to view the seat distribution for MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Have a look over here to view the seat distribution for MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -190,9 +188,9 @@
       <pattern>DOCUMENTS ADMISSION MBA INTEGRATED</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the documents required for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Please goto this link to view the documents required for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Have a look over here to view the documents required for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Click on this link to view the documents required for MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Please goto this link to view the documents required for MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Have a look over here to view the documents required for MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -200,9 +198,9 @@
       <pattern>FEE STRUCTURE MBA INTEGRATED</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the fee structure for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Please goto this link to view the fee structure required for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Have a look over here to view the fee structure for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Click on this link to view the fee structure for MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Please goto this link to view the fee structure required for MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
+			<li>Have a look over here to view the fee structure for MBA Integrated Admissions : http://www.shahandanchor.com/Admissions/AdmissionMBAIntegrated.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -210,9 +208,9 @@
       <pattern>ELIGIBILITY CRITERIA ADMISSION MTECH</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the eligibility criteria to M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Please goto this link to view the eligibility criteria to M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Have a look over here to view the eligibility criteria to M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
+			<li>Click on this link to view the eligibility criteria to M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
+			<li>Please goto this link to view the eligibility criteria to M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
+			<li>Have a look over here to view the eligibility criteria to M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -220,9 +218,9 @@
       <pattern>SEAT DISTRIBUTION ADMISSION MTECH</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the seat distribution for  M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Please goto this link to view the seat distribution for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Have a look over here to view the seat distribution for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
+			<li>Click on this link to view the seat distribution for  M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
+			<li>Please goto this link to view the seat distribution for M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
+			<li>Have a look over here to view the seat distribution for M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -230,9 +228,9 @@
       <pattern>DOCUMENTS ADMISSION MTECH</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the documents required for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Please goto this link to view the documents required for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Have a look over here to view the documents required for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
+			<li>Click on this link to view the documents required for M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
+			<li>Please goto this link to view the documents required for M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
+			<li>Have a look over here to view the documents required for M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -240,9 +238,9 @@
       <pattern>FEE STRUCTURE MTECH</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the fee structure for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Please goto this link to view the fee structure required for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Have a look over here to view the fee structure for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
+			<li>Click on this link to view the fee structure for M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
+			<li>Please goto this link to view the fee structure required for M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
+			<li>Have a look over here to view the fee structure for M.Tech Admissions : http://www.shahandanchor.com/Admissions/AdmissionMTech.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -250,9 +248,9 @@
       <pattern>ELIGIBILITY ADMISSION MCA</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the eligibility criteria to MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Please goto this link to view the eligibility criteria to MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Have a look over here to view the eligibility criteria to MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
+			<li>Click on this link to view the eligibility criteria to MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
+			<li>Please goto this link to view the eligibility criteria to MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
+			<li>Have a look over here to view the eligibility criteria to MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -260,9 +258,9 @@
       <pattern>SEAT DISTRIBUTION ADMISSION MCA</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the seat distribution for  MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Please goto this link to view the seat distribution for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Have a look over here to view the seat distribution for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
+			<li>Click on this link to view the seat distribution for  MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
+			<li>Please goto this link to view the seat distribution for MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
+			<li>Have a look over here to view the seat distribution for MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -270,9 +268,9 @@
       <pattern>DOCUMENTS REQUIRED ADMISSION MCA</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the documents required for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Please goto this link to view the documents required for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Have a look over here to view the documents required for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
+			<li>Click on this link to view the documents required for MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
+			<li>Please goto this link to view the documents required for MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
+			<li>Have a look over here to view the documents required for MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -280,9 +278,9 @@
       <pattern>FEE STRUCTURE MCA</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the fee structure for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Please goto this link to view the fee structure required for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Have a look over here to view the fee structure for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
+			<li>Click on this link to view the fee structure for MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
+			<li>Please goto this link to view the fee structure required for MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
+			<li>Have a look over here to view the fee structure for MCA Admissions : http://www.shahandanchor.com/Admissions/AdmissionMCA.aspx#</li>
 		</random>
 	  </template>
     </category>
@@ -290,9 +288,9 @@
       <pattern>DOCTORAL PROGRAMMES</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the Doctoral Programmes offered : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Please goto this link to view the Doctoral Programmes offered : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Have a look over here to view the Doctoral Programmes offered : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Click on this link to view the Doctoral Programmes offered : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Please goto this link to view the Doctoral Programmes offered : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Have a look over here to view the Doctoral Programmes offered : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -300,9 +298,9 @@
       <pattern>PHD SUPERVISORS</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the list of PhD supervisors : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Please goto this link to view the list of PhD supervisors : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Have a look over here to view the list of PhD supervisors : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Click on this link to view the list of PhD supervisors : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Please goto this link to view the list of PhD supervisors : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Have a look over here to view the list of PhD supervisors : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -310,9 +308,9 @@
       <pattern>PHD SCHOLARS</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the list of PhD scholars: http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Please goto this link to view the list of PhD scholars : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Have a look over here to view the list of PhD scholars : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Click on this link to view the list of PhD scholars: http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Please goto this link to view the list of PhD scholars : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Have a look over here to view the list of PhD scholars : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -320,9 +318,9 @@
       <pattern>PHD GUIDELINES</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the PhD programme guidelines: http://www.rknec.edu/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
-			<li>Please goto this link to view the PhD programme guidelines : http://www.rknec.edu/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
-			<li>Have a look over here to view the PhD programme guidelines : http://www.rknec.edu/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
+			<li>Click on this link to view the PhD programme guidelines: http://www.shahandanchor.com/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
+			<li>Please goto this link to view the PhD programme guidelines : http://www.shahandanchor.com/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
+			<li>Have a look over here to view the PhD programme guidelines : http://www.shahandanchor.com/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
 		</random>
 	  </template>
     </category>
@@ -330,9 +328,9 @@
       <pattern>UNIVERSITY ORDINANCES</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the university ordinances : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Please goto this link to view the university ordinances : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Have a look over here to view the university ordinances : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Click on this link to view the university ordinances : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Please goto this link to view the university ordinances : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Have a look over here to view the university ordinances : http://www.shahandanchor.com/R%20and%20D/PhD-Programme.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -340,19 +338,19 @@
       <pattern>ADMISSION NOTIFICATION</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the admission notifications : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Please goto this link to view the admission notifications : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Have a look over here to view the admission notifications : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
+			<li>Click on this link to view the admission notifications : https://www.shahandanchor.com/metsmartcampus/default.aspx</li>
+			<li>Please goto this link to view the admission notifications : https://www.shahandanchor.com/metsmartcampus/default.aspx</li>
+			<li>Have a look over here to view the admission notifications :https://www.shahandanchor.com/metsmartcampus/default.aspx</li>
 		</random>
 	  </template>
     </category>
 	<category>
-      <pattern>RESEARCH DEVRLOPMENT CELL</pattern>
+      <pattern>RESEARCH  CELL</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the details regarding RandD Cell: http://www.rknec.edu/R%20and%20D/RandDCell.aspx</li>
-			<li>Please goto this link to view the details regarding RandD Cell : http://www.rknec.edu/R%20and%20D/RandDCell.aspx</li>
-			<li>Have a look over here to view the details regarding RandD Cell : http://www.rknec.edu/R%20and%20D/RandDCell.aspx</li>
+			<li>Click on this link to view the details regarding Reseach Cell: https://www.shahandanchor.com/research/ </li>
+			<li>Please goto this link to view the details regarding Research Cell : https://www.shahandanchor.com/research/ </li>
+			<li>Have a look over here to view the details regarding RandD Cell : https://www.shahandanchor.com/research/ </li>
 		</random>
 	  </template>
     </category>

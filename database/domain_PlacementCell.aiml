@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 
 <aiml version="1.0">
 
@@ -28,9 +28,9 @@
       <pattern>MILESTONES 2016 BATCH</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the milestones of 2016 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Please goto this link to view milestones of 2016 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Have a look over here to know more about milestones of 2016 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
+			<li>Click on this link to view the milestones of 2016 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Please goto this link to view milestones of 2016 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Have a look over here to know more about milestones of 2016 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -38,9 +38,9 @@
       <pattern>MILESTONES 2017 BATCH</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the milestones of 2017 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Please goto this link to view milestones of 2017 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Have a look over here to know more about milestones of 2017 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
+			<li>Click on this link to view the milestones of 2017 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Please goto this link to view milestones of 2017 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Have a look over here to know more about milestones of 2017 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -48,9 +48,9 @@
       <pattern>MILESTONES 2015 BATCH</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the milestones of 2015 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Please goto this link to view milestones of 2015 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Have a look over here to know more about milestones of 2015 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
+			<li>Click on this link to view the milestones of 2015 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Please goto this link to view milestones of 2015 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Have a look over here to know more about milestones of 2015 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -58,9 +58,9 @@
       <pattern>MILESTONES 2014 BATCH</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the milestones of 2014 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Please goto this link to view milestones of 2014 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Have a look over here to know more about milestones of 2014 Batch : http://www.rknec.edu/Placement/Placements.aspx</li>
+			<li>Click on this link to view the milestones of 2014 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Please goto this link to view milestones of 2014 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Have a look over here to know more about milestones of 2014 Batch : http://www.shahandanchor.com/Placement/Placements.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -74,9 +74,9 @@
       <pattern>INFOSYS CAMPUS CONNECT</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the details of Infosys Campus Connect Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
-			<li>Please goto this link to view the details of Infosys Campus Connect Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
-			<li>Have a look over here to know more about the Infosys Campus Connect Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
+			<li>Click on this link to view the details of Infosys Campus Connect Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
+			<li>Please goto this link to view the details of Infosys Campus Connect Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
+			<li>Have a look over here to know more about the Infosys Campus Connect Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -84,9 +84,9 @@
       <pattern>ACCENTURE HEAD START</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the details of Accenture Head Start Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
-			<li>Please goto this link to view the details of Accenture Head Start Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
-			<li>Have a look over here to know more about the Accenture Head Start Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
+			<li>Click on this link to view the details of Accenture Head Start Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
+			<li>Please goto this link to view the details of Accenture Head Start Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
+			<li>Have a look over here to know more about the Accenture Head Start Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -94,9 +94,9 @@
       <pattern>ITC INFOTECH CAMPUS CONNECT</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the details of ITC Infotech Campus Connect Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
-			<li>Please goto this link to view the details of ITC Infotech Campus Connect Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
-			<li>Have a look over here to know more about the ITC Infotech Campus Connect Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
+			<li>Click on this link to view the details of ITC Infotech Campus Connect Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
+			<li>Please goto this link to view the details of ITC Infotech Campus Connect Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
+			<li>Have a look over here to know more about the ITC Infotech Campus Connect Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -104,9 +104,9 @@
       <pattern>CORE COMPANIES RECRUITED 5 YEARS</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the core companies that recruited from RCOEM : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Please goto this link to view the core companies that recruited from RCOEM : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Have a look over here to know more about the core companies that recruited from RCOEM : http://www.rknec.edu/Placement/Placements.aspx</li>
+			<li>Click on this link to view the core companies that recruited from RCOEM : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Please goto this link to view the core companies that recruited from RCOEM : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Have a look over here to know more about the core companies that recruited from RCOEM : http://www.shahandanchor.com/Placement/Placements.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -114,9 +114,9 @@
       <pattern>IT COMPANIES RECRUITED 5 YEARS</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the IT companies that recruited from RCOEM : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Please goto this link to view the IT companies that recruited from RCOEM : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Have a look over here to know more about the IT  companies that recruited from RCOEM : http://www.rknec.edu/Placement/Placements.aspx</li>
+			<li>Click on this link to view the IT companies that recruited from RCOEM : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Please goto this link to view the IT companies that recruited from RCOEM : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Have a look over here to know more about the IT  companies that recruited from RCOEM : http://www.shahandanchor.com/Placement/Placements.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -124,9 +124,9 @@
       <pattern>WIPRO JUMP START </pattern>
       <template>
 		<random>
-			<li>Click on this link to view the details of Wipro Jump Start Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
-			<li>Please goto this link to view the details of Wipro Jump Start Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
-			<li>Have a look over here to know more about the Wipro Jump Start Programme : http://www.rknec.edu/Placement/Industryinitiatives.aspx</li>
+			<li>Click on this link to view the details of Wipro Jump Start Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
+			<li>Please goto this link to view the details of Wipro Jump Start Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
+			<li>Have a look over here to know more about the Wipro Jump Start Programme : http://www.shahandanchor.com/Placement/Industryinitiatives.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -134,9 +134,9 @@
       <pattern>PROCEDURE TRAINING PLACEMENT RECRUITMENT</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the procedure followed by T and P department : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Please goto this link to view the procedure followed by T and P department : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Have a look over here to know more about the procedure followed by T and P department : http://www.rknec.edu/Placement/Placements.aspx</li>
+			<li>Click on this link to view the procedure followed by T and P department : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Please goto this link to view the procedure followed by T and P department : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Have a look over here to know more about the procedure followed by T and P department : http://www.shahandanchor.com/Placement/Placements.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -144,9 +144,9 @@
       <pattern>TRAINING PLACEMENT</pattern>
       <template>
 		<random>
-			<li>Click on this link to know more about T and P department : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Please goto this link to know more about T and P department : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Have a look over here to know more about T and P department : http://www.rknec.edu/Placement/Placements.aspx</li>
+			<li>Click on this link to know more about T and P department : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Please goto this link to know more about T and P department : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Have a look over here to know more about T and P department : http://www.shahandanchor.com/Placement/Placements.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -155,9 +155,9 @@
       <pattern>PLACEMENT STATISTICS</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the placement statistics : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Please goto this link to view placement statistics : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Have a look over here to know more about the placement statistics : http://www.rknec.edu/Placement/Placements.aspx</li>
+			<li>Click on this link to view the placement statistics : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Please goto this link to view placement statistics : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Have a look over here to know more about the placement statistics : http://www.shahandanchor.com/Placement/Placements.aspx</li>
 		</random>
 	  </template>
     </category>
@@ -165,12 +165,21 @@
       <pattern>RECRUITING COMPANIES</pattern>
       <template>
 		<random>
-			<li>Click on this link to view the recruiting companies visiting RCOEM: http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Please goto this link to view the recruiting companies visiting RCOEM : http://www.rknec.edu/Placement/Placements.aspx</li>
-			<li>Have a look over here to view the recruiting companies visiting RCOEM : http://www.rknec.edu/Placement/Placements.aspx</li>
+			<li>Click on this link to view the recruiting companies visiting RCOEM: http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Please goto this link to view the recruiting companies visiting RCOEM : http://www.shahandanchor.com/Placement/Placements.aspx</li>
+			<li>Have a look over here to view the recruiting companies visiting RCOEM : http://www.shahandanchor.com/Placement/Placements.aspx</li>
 		</random>
 	  </template>
     </category>
-	</aiml>
+
+
+<category>
+      <pattern>PLACEMENT CELL</pattern>
+      <template>
+		<random>
+			<li>Click on this link : https://www.shahandanchor.com/home/training-placement-cell/</li>
+			</random>
+	  </template>
+    </category>	</aiml>
 	
 	
